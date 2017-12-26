@@ -1,0 +1,27 @@
+#cc{
+    background-color:#293a4a;
+    color:#fff;
+    padding:10px;
+    
+    
+    }
+    .ccc{
+    margin-left:100px;
+    }
+    .fa-superpowers {
+    color: red;
+    }
+    .fa-envelope{
+    color: green;
+    }
+    .fa-image{
+    color: blue;
+    }
+
+    .content{
+display: none;
+}
+.preload{
+margin-left: 45%;
+margin-top: 20%;
+}
